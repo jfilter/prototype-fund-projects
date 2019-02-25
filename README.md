@@ -48,11 +48,11 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 - Status: Releasing
 - Type: New Project
 
-### Erne teilen
+### Ernte teilen
 
 - Share harvest
 - Code:
-- Website:
+- Website: https://ernte-teilen.org
 - Status: Releasing
 - Type: Improvements
 
